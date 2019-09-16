@@ -1,0 +1,8 @@
+@import "../node_modules/bootstrap/scss/bootstrap";
+
+$btn-size: 80px;
+
+.btn-drum {
+    width: $btn-size;
+    height: $btn-size;
+}
